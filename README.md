@@ -23,12 +23,12 @@
 
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=victor@gmail.com" title="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=victor@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&to=victor@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/victor-santos-01242007111203200607/" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-santos-01242007111203200607/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santos-01242007111203200607/" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5581993190503" title="WhatsApp" target="_blank">
+  <a href="https://wa.me/5581993190503" title="WhatsApp" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5581993190503" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/vituisdev/" title="Instagram" target="_blank">
+  <a href="https://www.instagram.com/vituisdev/" title="Instagram" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vituisdev/" alt="Instagram"/></a>
 </p>
