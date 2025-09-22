@@ -23,7 +23,7 @@
 
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=victor@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&to=victorb.santos15@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&to=victor@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/victor-santos-01242007111203200607/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-santos-01242007111203200607/" alt="LinkedIn"/></a>
