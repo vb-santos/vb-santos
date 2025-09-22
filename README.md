@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Hello! I'm Victor Santos and you are on my <strong>academic GitHub</strong>.<br>
-  There are some of my works that I have done to my High School and my College.
+  There are some of my academic works, I hope that you enjoy it!
 </p>
 
 <p align="left">
