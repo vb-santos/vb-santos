@@ -8,12 +8,12 @@
 
 <p align="left">
 
-  🦄 Languages: **React, Python, TypeScript, React Native**
+  🦄 Languages: **React, Python, TypeScript, React Native, Java**
 </p>
 
 <p align="left">
   
-  💼 Work Tools: **VS Code, Expo, IntelliJ, Docker**
+  💼 Work Tools: **VS Code, Expo, IntelliJ, WebStorm, Docker**
 </p>
 
 <p align="left">
