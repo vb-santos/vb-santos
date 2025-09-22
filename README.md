@@ -18,7 +18,7 @@
 
 <p align="left">
   
-  💌 You can send me a massage with some of these: ⤵️
+  💌 You can send me a message with some of these: ⤵️
 </p>
 
 
